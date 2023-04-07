@@ -3,6 +3,7 @@ library(ggplot2)
 library(googleway)
 library(lubridate)
 library(purrr)
+library(tidyverse)
 
 ## Helper function to get the drive time minutes from the object returned by `google_directions`
 ## Do not edit!
