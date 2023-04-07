@@ -32,6 +32,7 @@ jobs:
                any::lubridate
                any::googleway
                any::purrr
+               any::tidyverse
       - name: Render document
         uses: quarto-dev/quarto-actions/render@v2
         env:
