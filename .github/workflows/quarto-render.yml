@@ -33,6 +33,17 @@ jobs:
                any::googleway
                any::purrr
                any::tidyverse
+               any::gt
+               any::plotly
+               any::paletteer
+               any::ggridges
+               any::sf
+               any::ggmap
+               any::leaflet
+               any::osmdata
+               any::tigris
+               any::ggthemes
+               any::viridis
       - name: Render document
         uses: quarto-dev/quarto-actions/render@v2
         env:
