@@ -34,6 +34,7 @@ jobs:
                any::purrr
                any::tidyverse
                any::gt
+               any::gtExtras
                any::plotly
                any::paletteer
                any::ggridges
